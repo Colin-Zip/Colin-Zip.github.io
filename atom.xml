@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>Colin-Zip&#39;s blog</title>
+  <subtitle>Hello World！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://Colin-Zip.com/"/>
   <updated>2017-02-08T11:38:20.599Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://Colin-Zip.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Colin</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/02/08/hello-world/"/>
-    <id>http://yoursite.com/2017/02/08/hello-world/</id>
+    <link href="http://Colin-Zip.com/2017/02/08/hello-world/"/>
+    <id>http://Colin-Zip.com/2017/02/08/hello-world/</id>
     <published>2017-02-08T11:38:20.592Z</published>
     <updated>2017-02-08T11:38:20.599Z</updated>
     
